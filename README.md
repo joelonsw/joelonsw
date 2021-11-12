@@ -1,4 +1,7 @@
-### Hi there 👋
+### 안녕하세요! 서비스 마인드를 가진 개발자, 조영상입니다! 👋
+
+#### [📜 포트폴리오 보러가기](https://modern-address-f1c.notion.site/cf3e27c3a08d486e8f39faaa3a2dab57)
+
 
 <!--
 **PapimonLikelion/PapimonLIkelion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
